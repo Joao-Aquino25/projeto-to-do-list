@@ -92,3 +92,8 @@ body {
   background-size: cover;
   height: 100vh;
 }
+
+.done {
+  color: white;
+  text-decoration: line-through;
+}
